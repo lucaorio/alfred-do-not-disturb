@@ -16,7 +16,15 @@ _The Alfred Theme shown above is Nero, available [here](https://github.com/lucao
 
 ## Requirements
 
-- [do-not-disturb-cli](https://github.com/sindresorhus/do-not-disturb-cli) (installed via [nvm](https://github.com/creationix/nvm#install-script))
+- [nvm](https://github.com/creationix/nvm#install-script)
+- [yarn](https://yarnpkg.com)
+- [do-not-disturb-cli](https://github.com/sindresorhus/do-not-disturb-cli)
+
+```
+$ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.1/install.sh | bash
+$ curl -o- -L https://yarnpkg.com/install.sh | bash
+$ yarn global add do-not-disturb-cli
+```
 
 ## Installation
 
