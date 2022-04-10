@@ -2,29 +2,23 @@
 
 # Alfred - Do Not Disturb
 
-**Alfred - Do Not Disturb** is an [Alfred](https://www.alfredapp.com/) workflow to turn on/off macOS _Do Not Disturb_ feature.
+**Alfred - Do Not Disturb** is an [Alfred](https://www.alfredapp.com/) workflow to turn on/off macOS _Do Not Disturb_ feature on macOS Monterey and later.
 
 _The Alfred Theme shown above is Nero, available [here](https://github.com/lucaorio/nero)._
 
 ## Contents
 
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Contacts](#contacts)
+- [Alfred - Do Not Disturb](#alfred---do-not-disturb)
+  - [Contents](#contents)
+  - [Requirements](#requirements)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [License](#license)
+  - [Contacts](#contacts)
 
 ## Requirements
 
-- [nvm](https://github.com/creationix/nvm#install-script)
-- [yarn](https://yarnpkg.com)
-- [do-not-disturb-cli](https://github.com/sindresorhus/do-not-disturb-cli)
-
-```
-$ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.1/install.sh | bash
-$ curl -o- -L https://yarnpkg.com/install.sh | bash
-$ yarn global add do-not-disturb-cli
-```
+Simply download the [Calm Notifications (macOS Shortcut)](https://github.com/vitorgalvao/alfred-workflows/blob/master/CalmNotifications/source/Calm%20Notifications.shortcut) and double click to install it.
 
 ## Installation
 
